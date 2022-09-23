@@ -14,7 +14,7 @@ If you are this design owner you can contact with me.
 
 ## Installation
 ````
-git clone https://github.com/muhammedag/javascript-notification-function/
+git clone git clone https://github.com/muhammedag/nft-web-site
 ````
 
 ## Usage
